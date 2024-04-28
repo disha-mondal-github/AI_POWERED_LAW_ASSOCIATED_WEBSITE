@@ -1,5 +1,6 @@
 # Neural Diffusers - AI Powered Law Associate
-
+## Live Demo of the Project:
+https://disha-mondal-github.github.io/AI_POWERED_LAW_ASSOCIATE_WEBSITE/
 ## Project Overview:
 
 Neural Diffusers, comprising Amritanshu Lahiri and Disha Mondal, presents an AI-powered law associate developed for the Generative AI Buildathon by YourStory and 100xEngineers. The key features of our bot include:
