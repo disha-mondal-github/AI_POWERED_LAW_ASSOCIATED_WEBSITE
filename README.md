@@ -1,59 +1,45 @@
-# AI-Powered Law Associate
+# Neural Diffusers - AI Powered Law Associate
 
-## Project Overview
+## Project Overview:
 
-This project, developed by the team "Neural Diffusers" (Amritanshu Lahiri and Disha Mondal), is an AI-powered chatbot designed to assist lawyers and legal professionals. It was created for the Generative AI Buildathon by YourStory and 100xEngineers.
+Neural Diffusers, comprising Amritanshu Lahiri and Disha Mondal, presents an AI-powered law associate developed for the Generative AI Buildathon by YourStory and 100xEngineers. The key features of our bot include:
 
-### Key Features
+- **Case Summarization:** Provides users with summarized versions of legal cases, highlighting key points, precedents, and relevant legal principles.
 
-#### Case Summarization
-Provide users with summarized versions of legal cases, highlighting key points, precedents, and relevant legal principles.
+- **Statutory Interpretation:** Assists users in interpreting statutes and regulations by analyzing language, context, and relevant case law to determine legislative intention.
 
-#### Statutory Interpretation
-Assist users in interpreting statutes and regulations by analyzing language, context, and relevant case law. The goal of statutory interpretation is to determine the legal meaning of legislation or the meaning that conveys the legislative intention.
+- **Legal Database Integration:** Integrates with legal databases and repositories to access a vast collection of legal documents, enabling the chatbot to provide up-to-date and relevant information.
 
-#### Legal Database Integration
-Integration with legal databases and repositories to access a vast collection of legal documents, enabling the chatbot to provide up-to-date and relevant information.
+## Options Provided by the Chatbot:
 
-#### Options
-The chatbot provides the following options:
+- **Legal Research:** Solves law-related queries, provides case-specific legal advice, solves law-related ethical dilemmas, and offers recent legal news.
 
-- **Legal Research**: Solve law-related queries.
-- **Case-specific Legal Advice**: Provide advice on specific legal cases.
-- **Law-related Ethical Dilemmas**: Solve law-related ethical dilemmas.
-- **Recent Legal News**: Provide updates on recent legal news.
+## Use Cases of the Website:
 
-#### Web Scraping
-Unlock the vast expanse of legal knowledge on the web with the AI's web scraping capability. Seamlessly extract relevant data from online sources, including court decisions, legal articles, and statutes, to enrich legal research and analysis.
+- **Web Scraping:** Unlocks the vast expanse of legal knowledge on the web with our AI's web scraping capability, extracting relevant data from online sources such as court decisions, legal articles, and statutes.
 
-#### Research Assistance
-Based on the information extracted from legal documents, the chatbot will conduct thorough research on case law, precedents, and legal doctrines to provide lawyers with comprehensive insights and recommendations.
+- **Research Assistance:** Conducts thorough research on case law, precedents, and legal doctrines based on information extracted from legal documents, providing lawyers with comprehensive insights and recommendations.
 
-#### Strategic Recommendations
-The chatbot will generate strategic recommendations for case preparation and litigation based on its analysis of the legal documents and research findings. This could include suggesting potential arguments, identifying strengths and weaknesses in the case, and proposing legal strategies.
+- **Strategic Recommendations:** Generates strategic recommendations for case preparation and litigation based on analysis of legal documents and research findings, including suggesting potential arguments, identifying case strengths and weaknesses, and proposing legal strategies.
 
-## Architecture
+## Architecture:
 
-1. **Workflow Creation**: The team first created a workflow on Voiceflow to define the chatbot's functionality and interactions.
+- **Workflow Design:** Designed a workflow on Voiceflow to perform all objectives.
+  
+- **Bot Training:** Trained the bot on various legal cases, the Indian Constitution, the Indian Penal Code, Code of Criminal Procedure, laws, and ethics.
+  
+- **Integration:** Used the Voiceflow API key to connect with the Voiceflow interface, integrating it with the website's code for deployment.
+  
+- **Website Setup:** Designed the website UI with necessary CSS and JavaScript, making it responsive, and integrated the chatbot to complete the AI-powered law associate.
 
-2. **Training Data**: The chatbot was trained on various legal cases, the Constitution of India, the Indian Penal Code, the Code of Criminal Procedure, laws and ethics, and other relevant legal documents.
+## API Documentation:
 
-3. **Workflow Design**: The workflow was designed to perform all the stated objectives.
+- **API Key:** Utilized the API key from Voiceflow in Voiceglow to stylize the chatbot UI further.
 
-4. **Integration with Voiceglow**: After completing the workflow, its API key was used to connect it with Voiceglow, a platform for designing and deploying conversational AI applications.
+## Usage Guide and Examples:
 
-5. **Bot Interface Design**: In Voiceglow, the team designed the bot's interface and integrated the generated code with the code of their website.
+- Please refer to test cases for examples and usage guides.
 
-6. **Deployment**: After integrating the bot with the website, it was ready for deployment.
 
-## Setup
-
-After designing the UI of the website with necessary CSS and JavaScript, the website was made responsive, and the chatbot was integrated to complete the AI-powered Law Associate.
-
-## API Documentation
-
-The API key from Voiceflow was provided in Voiceglow to allow for further stylization of the chatbot's UI.
-
-## Usage Guide and Examples
 
 Please refer to the testcases for examples and usage guides.
